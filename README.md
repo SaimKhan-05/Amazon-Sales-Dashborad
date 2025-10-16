@@ -31,5 +31,5 @@ Geo-visualization of sales performance by location.
 Supports strategic decision making for e-commerce business growth.
 
 ##  Screen Short 
-How Dashboard looks like.![Alt text].(https://github.com/SaimKhan-05/Amazon-Sales-Dashborad/blob/main/Amazon%20Sales%20Analysis%20.pbit).
+How Dashboard looks like.  ![Alt text].(https://github.com/SaimKhan-05/Amazon-Sales-Dashborad/blob/main/Amazon%20Sales%20Analysis%20.pbit).
 Example: ![Dashboard].(https://github.com/SaimKhan-05/Amazon-Sales-Dashborad/blob/main/Amazon%20Sales%20Analysis%20Dashbboard.png)
