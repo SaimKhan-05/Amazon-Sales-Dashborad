@@ -33,3 +33,7 @@ Supports strategic decision making for e-commerce business growth.
 ##  Screen Short 
 How Dashboard looks like.  ![Alt text].(https://github.com/SaimKhan-05/Amazon-Sales-Dashborad/blob/main/Amazon%20Sales%20Analysis%20.pbit).
 Example: ![Dashboard].(https://github.com/SaimKhan-05/Amazon-Sales-Dashborad/blob/main/Screen%20Short%20Amazon%20Sales%20%20Dashbboard.png)
+
+<img width="1348" height="753" alt="Amazon Sales Analysis Dashbboard" src="https://github.com/user-attachments/assets/d624a48f-fa7c-4b81-9bf4-47d770560826" />
+
+
